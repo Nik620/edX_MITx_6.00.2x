@@ -226,7 +226,7 @@ def simulationWithoutDrug(numViruses, maxPop, maxBirthProb, clearProb,
     pylab.legend(loc = "best")
     pylab.show()
 
-# simulationWithoutDrug(100, 1000, 0.1, 0.05, 100)
+simulationWithoutDrug(100, 1000, 0.1, 0.05, 100)
 
 #
 # PROBLEM 3
