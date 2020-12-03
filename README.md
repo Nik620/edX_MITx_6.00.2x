@@ -1,6 +1,6 @@
 # edX_MITx_6.00.2x
 Intro to Computational Thinking and Data Science - offered through EdX & MITx. 
-Code is my solutions to problems, some material from course content.
+Code to solutions to problems, some material from course content.
 
 # Unit 1
 Lecture 2 Exercise 1
